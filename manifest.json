@@ -1,0 +1,16 @@
+{
+  "name": "ZenPen",
+  "short_name": "ZenPen",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "description": "A minimal text editor, made to stay out of the way while you get the words down.",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ]
+}

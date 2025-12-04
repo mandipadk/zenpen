@@ -1,6 +1,6 @@
-var defaultTitle = 'This is ZenPen';
-var defaultContent = 
-'<p>\
+const defaultTitle = 'This is ZenPen';
+const defaultContent =
+	'<p>\
 A minimalist writing zone, where you can block out all distractions and get to what\'s important. The writing!  \
 </p>\
 <p> \
